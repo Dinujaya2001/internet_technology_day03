@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     background-color: goldenrod;
     color: white;
     text-align: center;
@@ -11,4 +11,30 @@ p {
     text-align: center;
     font-weight: bold;
     font-style: italic;
+} */
+
+.a1{
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+    font-weight: bold;
+}
+
+.a2{
+    background-color: green;
+    color: black;
+    text-align: center;
+    margin-top: 0%;
+    font-weight: bold;
+    font-style: italic;
+    
+    
+}
+#p1{
+     background-color: goldenrod;
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+    font-weight: bold;
 }
